@@ -1,3 +1,4 @@
+//////////EXAMPLE OF A STACK
 function Stack() {
   let items = [];
 
@@ -16,6 +17,7 @@ function Stack() {
   this.print = () => console.log(items.toString());
 }
 
+//////////EXAMPLE OF A STACK
 class Stack1 {
   constructor() {
     this.items = [];
